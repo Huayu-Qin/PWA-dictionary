@@ -1,1 +1,1 @@
-redirect to oxford learners dictionarie. Get rid of multiple query pages on the mobile broswer
+Aim: redirect to oxford learners dictionary. Get rid of existing multiple pages on the mobile browser.
